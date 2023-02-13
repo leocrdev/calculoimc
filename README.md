@@ -1,2 +1,2 @@
-# calculoimc.github.io
+# calculoimc
 Calcule seu IMC
